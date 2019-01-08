@@ -1,0 +1,2 @@
+AND,((DOMAIN,raw.githubusercontent.com), (USER-AGENT,Surge*)), 🤖 Direct,notification-text="外部资源更新啦",notification-interval=3 // 更新提醒
+AND,((DOMAIN,github.com), (USER-AGENT,Surge*)), 🤖 Direct,notification-text="🥰我的节点也更新啦",notification-interval=3 // 更新提醒
