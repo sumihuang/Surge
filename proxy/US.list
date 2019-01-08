@@ -1,0 +1,4 @@
+🇨🇳 SH_BGP A -> US_AZURE B = ss, 47.101.50.194, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true, tfo=true
+🇨🇳 SH_BGP B -> US_AZURE A = ss, 106.15.91.244, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true, tfo=true
+🇨🇳 XZ_Telecom ->US_AZURE C = ss, 221.229.173.110, 35002, encrypt-method=chacha20-ietf-poly1305, password=UrTAdN, obfs=tls, obfs-host=e7c3112876.wns.windows.com, udp-relay=true, tfo=true
+🇨🇳 JS_Mobile -> US_AZURE E = ss, 223.111.157.35, 35002, encrypt-method=chacha20-ietf-poly1305, password=UrTAdN, obfs=tls, obfs-host=e7c3112876.wns.windows.com, udp-relay=true, tfo=true
