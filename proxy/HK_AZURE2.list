@@ -1,3 +1,0 @@
-🇨🇳 HZ_BGP -> HK_AZURE A = ss, 47.96.177.39, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true, tfo=true
-🇨🇳 SZ_BGP -> HK_AZURE B = ss, 120.79.47.204, 34807, encrypt-method=xchacha20-ietf-poly1305, password=3Im7O1, obfs=http, udp-relay=true, tfo=true
-🇭🇰 HK_CN2  = ss, 47.91.232.217, 153, encrypt-method=chacha20-ietf-poly1305, password=UrTAdN, obfs=tls, obfs-host=e7c3112876.wns.windows.com, udp-relay=true, tfo=true
